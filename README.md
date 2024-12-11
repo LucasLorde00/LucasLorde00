@@ -1,5 +1,5 @@
-#🙎 Olá, Me Chamo Lucas Orge!
-👨‍💻 Futuro Engenheiro de Software <br>👨‍🎓 Atualmente estudando Engenharia de Software na UCSAL.<br>🙋 Estudando e colocando na prática minhas habilidades.<br>🏋️‍♂️Adoro colocar em prática meus hobbies: programar, ler, jogar futsal e ir a academia.
+# 🙎 Olá, Me Chamo Lucas Orge!
+ 👨‍💻 Futuro Engenheiro de Software <br>👨‍🎓 Atualmente estudando Engenharia de Software na UCSAL.<br>🙋 Estudando e colocando na prática minhas habilidades.<br>🏋️‍♂️Adoro colocar em prática meus hobbies: programar, ler, jogar futsal e ir a academia.
 
 
 ## 🌐 Minhas Redes
